@@ -1,2 +1,2 @@
-# desafio_projeto_primeiro_repositorio
-Repositório referente ao projeto de Git/Github
+# Projeto Git/Github
+Repositório referente ao desafio de projeto sobre Git/Github.
